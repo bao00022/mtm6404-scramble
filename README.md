@@ -1,4 +1,8 @@
-# Scramble
+# React + Vite + tailwind
 
-## Objective
-Using React and local storage, create an interactive version of the game Scramble.
+```bash
+npm create vite@8.3.0 ./
+npm install
+npm install tailwindcss @tailwindcss/vite
+npm run dev
+```
